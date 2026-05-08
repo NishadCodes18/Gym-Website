@@ -1,3 +1,5 @@
+![Nitrro Zone 360 Logo](.png)
+
 # Nitrro Zone 360 - Gym Website
 
 A modern, responsive website for **Nitrro Zone 360**, a premier fitness center located in Balewadi, Pune. This project showcases gym facilities, membership plans, and provides an engaging platform for potential members to learn about the gym and get in touch.
