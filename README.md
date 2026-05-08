@@ -1,4 +1,4 @@
-![Nitrro Zone 360 Logo](.png)
+![Nitrro Zone 360 Logo](img/The-Zone-Logo-with-uper-text.png)
 
 # Nitrro Zone 360 - Gym Website
 
