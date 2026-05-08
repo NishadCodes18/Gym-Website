@@ -238,7 +238,6 @@ toggleBtn.addEventListener("click", () => {
 ## 🤝 Contributors
 
 - **Nishad Patil** - Developer
-- **Sandesh Kotwal** - Developer
 - **SY CSE 2** - Academic Year 2025-26
 
 ---
@@ -252,17 +251,17 @@ This project is licensed under the **MIT License** - feel free to use, modify, a
 ## 🔗 Links
 
 - **Location**: [Nitrro Zone 360, Balewadi, Pune](https://maps.app.goo.gl/prGZMPPDPqiURssb8)
-- **Contact**: info@nitrrozone360.com
-- **Phone**: +91 98765 43210
+- **Contact**: zone360balewadi@gmail.com
+- **Phone**: +91 941818 4040
 
 ---
 
 ## 📱 Contact & Support
 
 For inquiries about memberships or gym facilities:
-- **Email**: info@nitrrozone360.com
-- **Phone**: +91 98765 43210
-- **Hours**: Mon–Sat: 6 AM – 10 PM | Sun: 8 AM – 8 PM
+- **Email**: zone360balewadi@gmail.com
+- **Phone**: +91 941818 4040
+- **Hours**: Mon–Sat: 6 AM – 10 PM | Sun: 8 AM – 1 PM
 
 ---
 
