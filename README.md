@@ -126,8 +126,8 @@ Simple-Gym-Website-main/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Simple-Gym-Website-main.git
-   cd Simple-Gym-Website-main
+   git clone https://github.com/yourusername/Gym-Website-main.git
+   cd Gym-Website-main
    ```
 
 2. **Open in Browser**
